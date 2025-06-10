@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Giulio
 
-<!--
-**giuliobenetti/giuliobenetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 CTO at [Benetti Engineering S.a.s.](https://github.com/Benetti-Engineering-sas) and co-CTO at [Micronova Srl](https://www.micronovasrl.com)  
+🧠 I work on embedded electronics Hardware, Firmware, Software, Driver development/fix  
+🌍 I collaborate with clients from all over the world
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Giulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuliobenetti&show_icons=true&hide=contribs&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliobenetti&layout=compact)
+
+---
+
+## 🧰 Key Skills
+
+- 🔌 C, C++ (bare-metal, firmware)
+- ⚙️ Linux kernel, Buildroot
+- 🖥️ GStreamer, KMS/DRM, Wayland
+- 🤖 Embedded AI, on-device inference (C/C++)
+- 🧪 Debugging, reverse engineering, certification
+
+---
+
+## 📫 Contact
+
+📧 giulio.benetti@benettiengineering.com  
