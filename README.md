@@ -25,5 +25,5 @@
 
 ## 📫 Contact
 
-🔗 [LinkedIn](https://www.linkedin.com/in/giuliobenetti)  
+🔗 [LinkedIn](https://www.linkedin.com/in/giulio-benetti-79975951/)  
 📧 giulio.benetti@benettiengineering.com
