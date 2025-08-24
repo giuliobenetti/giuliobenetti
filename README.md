@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Giulio
 
-🎯 CTO at [Benetti Engineering S.a.s.](https://github.com/Benetti-Engineering-sas) and co-CTO at [Micronova Srl](https://www.micronovasrl.com)  
+🎯 CTO at [Benetti Engineering](https://github.com/Benetti-Engineering) and co-CTO at [Micronova Srl](https://www.micronovasrl.com)  
 🧠 I work on embedded electronics Hardware, Firmware, Software, Driver development/fix  
 🌍 I collaborate with clients from all over the world
 
